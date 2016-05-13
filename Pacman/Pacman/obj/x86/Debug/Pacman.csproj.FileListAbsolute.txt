@@ -1,0 +1,36 @@
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.pdb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe.manifest
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.application
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe.manifest
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.application
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Pacman.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Wall.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Dot.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Ghost.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\SpriteFonts\SpriteFont.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Powerup.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\GhostPowerup.xnb
+C:\Users\Eric\Desktop\XNA Games\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Black.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.csprojResolveAssemblyReference.cache
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.pdb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Pacman.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Wall.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Dot.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Ghost.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Powerup.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\GhostPowerup.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\Sprites\Black.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Content\SpriteFonts\SpriteFont.xnb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe.manifest
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.application
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.exe
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\bin\x86\Debug\Pacman.pdb
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.exe.manifest
+C:\Users\1012746\Desktop\Pacman\Pacman\Pacman\obj\x86\Debug\Pacman.application
