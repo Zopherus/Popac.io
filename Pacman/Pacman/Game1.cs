@@ -9,7 +9,9 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
 
-namespace Pacman
+using Popac.GameStates;
+
+namespace Popac
 {
     /// <summary>
     /// This is the main type for your game
@@ -19,6 +21,8 @@ namespace Pacman
         public const int screenWidth = 31 * gridSize;
         public const int screenHeight = 17 * gridSize;
         public const int gridSize = 25;
+
+		private GameStateMgr _gameStateMgr;
         
         public static GraphicsDeviceManager graphics;
         public static SpriteBatch spriteBatch;
@@ -60,6 +64,9 @@ namespace Pacman
             Map.InitializeMap();
             Highscore.ReadFromFile();
             Map.Ghosts.Add(ghost);
+
+			// Initialize the game state manager.
+			_gameStateMgr = new GameStateMgr(null);
         }
 
         /// <summary>
@@ -101,7 +108,7 @@ namespace Pacman
         /// </summary>
         protected override void UnloadContent()
         {
-            // TODO: Unload any non ContentManager content here
+
         }
 
         /// <summary>
@@ -111,6 +118,9 @@ namespace Pacman
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Update(GameTime gameTime)
         {
+			// Update the game state manager.
+			_gameStateMgr.Update(gameTime);
+
             oldKeyboard = keyboard;
             oldMouse = mouse;
             keyboard = Keyboard.GetState();

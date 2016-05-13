@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace Pacman
+namespace Popac
 {
     //The character that the player uses
     public class Pacman

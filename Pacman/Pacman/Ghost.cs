@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace Pacman
+namespace Popac
 {
     //The Ghost that chases Pacman
     public class Ghost

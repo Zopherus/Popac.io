@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pacman
+namespace Popac
 {
     //The different game states
     class GameState

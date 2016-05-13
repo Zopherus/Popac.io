@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace Pacman
+namespace Popac
 {
     //Used in case I want to change the background squares to something different
     class EmptySquare

@@ -7,7 +7,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Pacman</RootNamespace>
+    <RootNamespace>Popac</RootNamespace>
     <AssemblyName>Pacman</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
@@ -88,12 +88,17 @@
     <Reference Include="System.Net" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CoreGame\InputMgr.cs" />
+    <Compile Include="Core\Manager.cs" />
     <Compile Include="Dot.cs" />
     <Compile Include="DrawStates.cs" />
     <Compile Include="EmptySquare.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="GameState.cs" />
+    <Compile Include="GameStates\GameState.cs" />
+    <Compile Include="GameStates\GameStateMgr.cs" />
     <Compile Include="Ghost.cs" />
+    <Compile Include="Graphics\TextureMgr.cs" />
     <Compile Include="Highscore.cs" />
     <Compile Include="Score.cs" />
     <Compile Include="Map.cs" />
@@ -109,8 +114,9 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\PacmanContent\PacmanContent.contentproj">
-      <Name>PacmanContent</Name>
+      <Name>PacmanContent %28Content%29</Name>
       <XnaReferenceType>Content</XnaReferenceType>
+      <Project>{161B08CE-453C-44D4-AE11-5E299A7CEE5D}</Project>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

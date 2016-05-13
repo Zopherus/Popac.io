@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using Microsoft.Xna.Framework;
 
-namespace Pacman
+namespace Popac
 {
     //To be used in Queues for Ghost pathfinding
     class Node

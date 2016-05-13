@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Input;
 
 
-namespace Pacman
+namespace Popac
 {
     class UpdateStates
     {

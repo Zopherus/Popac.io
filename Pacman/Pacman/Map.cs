@@ -5,7 +5,7 @@ using System.Text;
 using System.IO;
 using Microsoft.Xna.Framework;
 
-namespace Pacman
+namespace Popac
 {
     //The different elements of the map
     class Map

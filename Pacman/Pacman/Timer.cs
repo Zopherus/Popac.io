@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Pacman
+namespace Popac
 {
     //Used for timing multiple things
     class Timer
